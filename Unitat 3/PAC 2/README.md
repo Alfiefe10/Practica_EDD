@@ -6,27 +6,27 @@
 
 ## Examples de l'ús de Markdown
 
-**Hello World! en python**
+**Hola mon en python**
 ```
 #Hola mon en python
 print "Hola a tots! Em diuen Alfre i estudie 1r de DAM!"
 ```
 
-**Hello World! en nodejs/javascript**
+**Hola mon en nodejs/javascript**
 ```javascript
 //Hola mon en nodejs/javascript
 
 console.log("Hola a tots! Em diuen Alfre i estudie 1r de DAM!");
 ```
 
-**Hello World! en C**
+**Hola mon en C**
 ```c
 
 /* Hola mon en C */
 
 #include <stdio.h>
 
-int main(void){printf("Hello World! des de C!");}
+int main(void){printf("Hola mon des de C!");}
 ```
 
 **Hola mon en Java**
@@ -35,7 +35,7 @@ int main(void){printf("Hello World! des de C!");}
 
 class HolaMon {
 	static public void main( String args[] ) {
-		System.out.println( "Hello World! des de Java!" );
+		System.out.println( "Hola mon des de Java!" );
 	}
 }
 ```
