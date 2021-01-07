@@ -1,3 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Activitat pràctica d'avaluació continuada 2 (APAC 2)
 
 ## Este repositori es una prova.
