@@ -14,11 +14,11 @@
 
 ⭕· Dins d'aquesta carpeta, creeu una nova per a l'apartat del Make, on guardareu el següent:
 
-❌    o Un fitxer Readme.md a mode de memòria, explicant el contingut de la carpeta en què esteu,
+❌ o Un fitxer Readme.md a mode de memòria, explicant el contingut de la carpeta en què esteu,
 
-❌    o Els fitxers corresponents als fonts, capçaleres i Makefiles generats durant la pràctica.
+❌ o Els fitxers corresponents als fonts, capçaleres i Makefiles generats durant la pràctica.
 
-✔️    o Un fitxer .gitignore per a que no es sincronitzen amb github els fitxers .o que se generen.
+✔️ o Un fitxer .gitignore per a que no es sincronitzen amb github els fitxers .o que se generen.
 
 
 
