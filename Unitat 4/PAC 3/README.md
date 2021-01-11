@@ -1,10 +1,12 @@
 # Activitat pràctica d'avaluació continuada 3 (APAC 3)
 
-## Carpetes contingudes en la unitat 4:
+## Contingut de la Pràctica 3 de la unitat 4:
+
+**Els arxius de cada carpeta, i les seues funcions estàn explicats en el "README.md"**
 
 ### Calcula
 
-La carpeta "Calcula" conté 4 arxius:
+La carpeta "Calcula" conté 5 arxius:
 
 ```
 calc.c
@@ -14,8 +16,6 @@ Makefile
 README.md
 ```
 
-Els arxius, i les seues funcions estàn explicats en el "README.md"
-
 ### Hola
 
 La carpeta "Hola" conté 1 arxiu:
@@ -24,4 +24,7 @@ La carpeta "Hola" conté 1 arxiu:
 README.md
 ```
 
-Els arxius, i les seues funcions estàn explicats en el "README.md"
+
+### Enunciat.md
+
+Este arxiu conté la actualizació del progrés actual del projecte.
