@@ -2,7 +2,7 @@
 
 ## Contingut de la Pràctica 3 de la unitat 4:
 
-**Els arxius de cada carpeta, i les seues funcions estàn explicats en el "README.md"**
+**Els arxius de cada carpeta, i les seues funcions estàn explicats en el "README.md" corresponent**
 
 ### Calcula
 
