@@ -36,6 +36,6 @@
 
 ✔️· Fitxer Makefile amb els targets: calcula, calc.o, clean, dist, targz i install
 
-❌· Comproveu, i mostreu a la memòria el funcionament de tots els targets.
+✔️· Comproveu, i mostreu a la memòria el funcionament de tots els targets.
 
 **Caldrà entregar la memòria i l’enllaç a la carpeta de GitHub.**
