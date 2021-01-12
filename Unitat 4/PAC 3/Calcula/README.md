@@ -48,4 +48,4 @@ En aquest cas, el Makefile té les següents regles:
 
 **Comprobació del funcionament dels targets:**
 
-![comprobacio Makefile](C:\Users\ALFREDO\_Repositories\Projectes Git EDD\Practica_EDD\Unitat 4\PAC 3\img\Comprobacio Makefile.PNG "Comprobacio Makefile")
+![comprobacio Makefile](Comprobacio Makefile.PNG "Comprobacio Makefile")
