@@ -49,3 +49,7 @@ En aquest cas, el Makefile té les següents regles:
 **Comprobació del funcionament dels targets:**
 
 ![Comprobacio Makefile](https://github.com/Alfiefe10/Practica_EDD/blob/master/Unitat_4/PAC_3/img/Comprobacio_Makefile.PNG?raw=true "Comprobacio Makefile")
+
+**Comprobació del funcionament del executable Calcula:**
+
+![Execucio Calcula](https://github.com/Alfiefe10/Practica_EDD/blob/master/Unitat_4/PAC_3/img/Execucio_Calcula.PNG?raw=true "Execucio Calcula")
