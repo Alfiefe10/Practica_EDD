@@ -48,4 +48,4 @@ En aquest cas, el Makefile té les següents regles:
 
 **Comprobació del funcionament dels targets:**
 
-![Comprobacio Makefile](Practica_EDD\Unitat_4\PAC_3\img\Comprobacio_Makefile.PNG "Comprobacio Makefile")
+![Comprobacio Makefile](Unitat_4/PAC_3/img/Comprobacio_Makefile.PNG "Comprobacio Makefile")
