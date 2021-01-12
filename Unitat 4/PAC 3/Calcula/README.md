@@ -45,3 +45,7 @@ En aquest cas, el Makefile té les següents regles:
 ``targz:`` Comprimeix alguns arxius, i esborra els arxius innecesaris.
 
 ``install:`` Instala el programa al sistema.
+
+**Comprobació del funcionament dels targets:**
+
+![comprobacio Makefile](C:\Users\ALFREDO\_Repositories\Projectes Git EDD\Practica_EDD\Unitat 4\PAC 3\img\Comprobacio Makefile.PNG "Comprobacio Makefile")
