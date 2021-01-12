@@ -30,7 +30,7 @@
 
 **Recordem, per damunt els diferents exemples (TO-DOs) que s'han tractat a la unitat:**
 
-❌· Exemple de compilació del fitxer hola.c, caldrà que estiga aquest fitxer al repositori i que mostreu i expliqueu la seua compilació i funcionament al fitxer README.md.
+✔️· Exemple de compilació del fitxer hola.c, caldrà que estiga aquest fitxer al repositori i que mostreu i expliqueu la seua compilació i funcionament al fitxer README.md.
 
 ❌· Exemple de la calculadora (fitxers calc.c, calcula.c i calc.h), amb la funcionalitat dels exemples més la funció major(), que haureu d'implementar, i que mostrava quin dels dos números proporcionats com a arguments era major.
 
