@@ -1,4 +1,4 @@
-./Unitat 3/"PAC 2"/*.png
-./Unitat 3/"PAC 2"/*.jpg
-./Unitat 4/"PAC 3"/Calcula/*.o
+*.png
+*.jpg
+*.o
 Link_Github.bat
