@@ -10,7 +10,7 @@ calc.o: calc.c calc.h
 .PHONY: clean
 clean:
 	rm -rf *.o
-	rm calcula
+	rm -f calcula
 
 .PHONY: dist
 dist: clean calcula
