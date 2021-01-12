@@ -2,7 +2,7 @@
 
 ## hola.c:
 
-
+Un programa senzill en C, de l’estil «Hola Món».
 
 ## Makefile:
 
@@ -12,7 +12,9 @@ En un principi, no importa l’ordre de les regles, més enllà del requeriment 
 
 En aquest cas, el Makefile té les següents regles:
 
-``hola:`` Obtindre l'executable hola en base al arxiu hola.c
+``hola:`` Obtindre l'executable hola en base al arxiu hola.c, mostrant també tots els Warnings durant la compilació.
+
+``clean:`` Netejar el projecte, esborrant el arxiu executable "hola".
 
 **Comprobació del funcionament dels targets:**
 
