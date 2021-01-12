@@ -50,6 +50,6 @@ En aquest cas, el Makefile té les següents regles:
 
 ![Comprobacio Makefile](https://github.com/Alfiefe10/Practica_EDD/blob/master/Unitat_4/PAC_3/img/Comprobacio_Makefile.PNG?raw=true "Comprobacio Makefile")
 
-![Comprobacio Makefile](Unitat_4\PAC_3\img\Comprobacio_Makefile.PNG"Comprobacio Makefile")
+![Comprobacio Makefile](Unitat_4\PAC_3\img\Comprobacio_Makefile.PNG "Comprobacio Makefile")
 
-![Comprobacio Makefile](Unitat_4/PAC_3/img/Comprobacio_Makefile.PNG"Comprobacio Makefile")
+![Comprobacio Makefile](Unitat_4/PAC_3/img/Comprobacio_Makefile.PNG "Comprobacio Makefile")
